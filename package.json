@@ -1,9 +1,25 @@
 {
-  "name": "alphainc",
-  "version": "1.0.0",
-  "description": "A small library that increments alphanumeric strings as if they were a counter.",
-  "main": "index.js",
-  "repository": "git@github.com:icirellik/alphainc",
-  "author": "Cameron Rollheiser <icirellik@gmail.com>",
-  "license": "MIT"
+	"name": "alphainc",
+	"version": "1.0.0",
+	"description": "A small library that increments alphanumeric strings as if they were a counter.",
+	"main": "index.js",
+	"repository": "git@github.com:icirellik/alphainc",
+	"author": "Cameron Rollheiser <icirellik@gmail.com>",
+	"license": "MIT",
+	"engines": {
+		"node": ">=9"
+	},
+	"scripts": {
+		"test": "mocha test"
+	},
+	"keywords": [
+		"alphanumeric",
+		"increment",
+		"counter",
+		"alpha",
+		"numeric"
+	],
+	"devDependencies": {
+		"mocha": "^5.0.4"
+	}
 }
