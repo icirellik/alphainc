@@ -1,9 +1,9 @@
 {
-	"name": "alphainc",
+	"name": "alphaplusplus",
 	"version": "1.0.0",
 	"description": "A small library that increments alphanumeric strings as if they were a counter.",
 	"main": "index.js",
-	"repository": "git@github.com:icirellik/alphainc",
+	"repository": "git@github.com:icirellik/alphaplusplus",
 	"author": "Cameron Rollheiser <icirellik@gmail.com>",
 	"license": "MIT",
 	"engines": {
@@ -17,7 +17,10 @@
 		"increment",
 		"counter",
 		"alpha",
-		"numeric"
+		"numeric",
+		"plus",
+		"plusplus",
+		"++"
 	],
 	"devDependencies": {
 		"mocha": "^5.0.4"
