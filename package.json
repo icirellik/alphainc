@@ -1,6 +1,6 @@
 {
 	"name": "alphaplusplus",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "A small library that increments alphanumeric strings as if they were a counter.",
 	"main": "index.js",
 	"repository": "git@github.com:icirellik/alphaplusplus",

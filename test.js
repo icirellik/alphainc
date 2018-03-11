@@ -31,4 +31,8 @@ describe('Increment Tests', () => {
     assert.equal('baaa', alphainc('a999'));
   });
 
+  it('9000 inc baaa', () => {
+    assert.equal('9001', alphainc('9000'));
+  });
+
 });
